@@ -24,6 +24,9 @@
 .icon{
     font-size: 10rem;
 }
+.main{
+    height: 100px;
+}
 .main-5{
     height: 50px;
 }
@@ -67,31 +70,31 @@
     height: 50px ;
 }
 .box{
-    border: 4px solid black;
-    background-color: white;
+    border: 4px solid white;
+    background-color: #F0F0F0;
 }
 .bg1{
-    background-color: #0D92F4;
+    background-color: #d0f0fd;
 }
 .bg2{
-    background-color: red;
+    background-color: #003366;
 }
 .bg3{
     background-color: #77CDFF;
     border: 2px solid #77CDFF;
 }
 .bg4{
-    background-color: #C62E2E;
+    background-color: #FF7F50;
 }
 .color{
     color: black;
 }
 .border:hover{
-    border: 4px solid black;
+    border: 4px solid #FFFFFF;
 }
 .mode{
-    background-color: white;
-    border: 2px solid black;
+    background-color: black;
+    border: 2px solid #F0F0F0;
 }
 /* darkmode */
 .darkbox{
@@ -99,17 +102,17 @@
     background-color: black;
 }
 .darkbg1{
-    background-color: #30536b;
+    background-color: #010c13;
 }
 .darkbg2{
-    background-color: rgb(46, 30, 30);
+    background-color: rgb(17, 9, 9);
 }
 .darkbg3{
-    background-color: #1a2830;
-    border: 2px solid #1a2830;
+    background-color: #0a0f11;
+    border: 2px solid #060a0b;
 }
 .darkbg4{
-    background-color: #402020;
+    background-color: #080505;
 }
 .darkcolor{
     color: white;
@@ -139,4 +142,8 @@
 
 .comp-result{
     animation: showFinalChoice 0.5s forwards;
+}
+.mode{
+    margin : 20px;
+    color: thistle;
 }
