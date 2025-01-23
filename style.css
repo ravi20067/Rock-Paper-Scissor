@@ -74,17 +74,18 @@
     background-color: #F0F0F0;
 }
 .bg1{
-    background-color: #d0f0fd;
+    background: linear-gradient(to right, #0ba145, #0c2399);
 }
 .bg2{
-    background-color: #003366;
+    background-color: #a1b4c7;
 }
 .bg3{
-    background-color: #77CDFF;
+    background: linear-gradient(to right, #3498db, #9b59b6);
+
     border: 2px solid #77CDFF;
 }
 .bg4{
-    background-color: #FF7F50;
+    background: linear-gradient(to right, #ee1f72, #9b59b6);
 }
 .color{
     color: black;
